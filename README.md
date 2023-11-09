@@ -7,3 +7,4 @@
 ### [Week3](Supervised_Machine_Learning/Week3)
 
 ### [Certificate](https://coursera.org/share/a612a2c610efd6391f44569f3a5b9a0f)
+### [Hand Written Notes](https://drive.google.com/file/d/1KOLxCUlr_c0tJkI_pMg3l2lCGVJha2BB/view?usp=drive_link)
