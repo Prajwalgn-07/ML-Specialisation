@@ -1,4 +1,4 @@
-# ML-Specialisation
+# ML-Specialization
 
 ## Supervised Machine Learning
 
