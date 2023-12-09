@@ -16,4 +16,4 @@
 ### [Week3](Advanced_Learning_Algorithms/week3)
 
 ### [Certificate](https://coursera.org/verify/4PM4N2CP9Z36)
-
+###  [Hand Written Notes](https://drive.google.com/file/d/1LuLZ5ydTUS2NhaGxcbqKVyMYJ6Biw0JB/view?usp=sharing)
